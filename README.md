@@ -1,8 +1,13 @@
-# Tomás Francisco
+### Hi there <a href="https://tfrancisco.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-## Developer
 
-I love building user experiences. Open to speak about Design Systems, Accessibility and Frontend Development.
+## I'm a Developer
+
+I love building user experiences.
+
+- ✨ &nbsp; I’m currently building [getds.pro](https://getds.pro)
+- 💬 &nbsp; Ask me about anything related to Design Systems, Accessibility and Frontend Development
+
 
 ---
 
